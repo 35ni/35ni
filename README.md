@@ -1,6 +1,6 @@
 <!--
   35ni profile README
-  Public repositories are refreshed automatically by GitHub Actions.
+  The visual project card is refreshed automatically by GitHub Actions.
 -->
 
 <div align="center">
@@ -26,12 +26,9 @@ I build across web, automation, developer tooling and interactive experiences â€
 ### / PUBLIC PROJECTS
 
 <!-- REPOSITORIES:START -->
-_Automatically refreshed by GitHub Actions every 15 minutes._
 
-| Project | Explore |
-|:--|:--|
-| [2null-skills-collection](https://github.com/35ni/2null-skills-collection) | Open-source developer skills |
-| [TikerinoClientArchives](https://github.com/35ni/TikerinoClientArchives) | Public client archives |
+![35ni profile card](./profile-card.svg)
+
 <!-- REPOSITORIES:END -->
 
 ### / CURRENTLY
