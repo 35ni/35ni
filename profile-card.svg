@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="494" viewBox="0 0 1000 494">
+  <rect width="1000" height="494" rx="24" fill="#111827"/>
+  <rect x="16" y="16" width="968" height="462" rx="20" fill="none" stroke="#263449"/>
+  <rect x="32" y="32" width="76" height="76" rx="18" fill="#090b12"/>
+  <path d="M70 48 L91 60 L70 73 L49 60 Z" fill="#a78bfa"/>
+  <path d="M49 64 L70 77 L70 96 L49 83 Z" fill="#6366f1"/>
+  <path d="M91 64 L70 77 L70 96 L91 83 Z" fill="#4338ca"/>
+  <text x="124" y="58" class="name">35ni</text>
+  <text x="124" y="84" class="role">Independent Developer</text>
+  <text x="124" y="110" class="tagline">Building software, tools &amp; experiments.</text>
+  <line x1="32" y1="140" x2="968" y2="140" stroke="#3a4960"/>
+  <text x="32" y="194" class="heading">Public Projects</text>
+  <a href="https://github.com/35ni/2null-skills-collection">
+    <rect x="30" y="250" width="450" height="76" rx="12" fill="#202c40"/>
+    <text x="48" y="281" class="repo">2null-skills-collection</text>
+    <text x="48" y="305" class="desc">Open-source developer skills</text>
+  </a>
+  <a href="https://github.com/35ni/TikerinoClientArchives">
+    <rect x="500" y="250" width="450" height="76" rx="12" fill="#202c40"/>
+    <text x="518" y="281" class="repo">TikerinoClientArchives</text>
+    <text x="518" y="305" class="desc">Public client archives</text>
+  </a>
+  <text x="32" y="456" class="foot">Automatically generated from public GitHub repositories.</text>
+  <style>
+    .name { font: 700 30px Arial, sans-serif; fill: #f8fafc; }
+    .role { font: 14px Arial, sans-serif; fill: #cbd5e1; }
+    .tagline { font: 14px Arial, sans-serif; fill: #e2e8f0; }
+    .heading { font: 700 21px Arial, sans-serif; fill: #f8fafc; }
+    .repo { font: 700 17px Arial, sans-serif; fill: #f8fafc; }
+    .desc { font: 13px Arial, sans-serif; fill: #cbd5e1; }
+    .foot { font: 12px Arial, sans-serif; fill: #94a3b8; }
+  </style>
+</svg>
