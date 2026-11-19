@@ -26,7 +26,12 @@ I build across web, automation, developer tooling and interactive experiences â€
 ### / PUBLIC PROJECTS
 
 <!-- REPOSITORIES:START -->
-_Your public projects will appear here automatically._
+_Automatically refreshed by GitHub Actions every 15 minutes._
+
+| Project | Explore |
+|:--|:--|
+| [2null-skills-collection](https://github.com/35ni/2null-skills-collection) | Open-source developer skills |
+| [TikerinoClientArchives](https://github.com/35ni/TikerinoClientArchives) | Public client archives |
 <!-- REPOSITORIES:END -->
 
 ### / CURRENTLY
